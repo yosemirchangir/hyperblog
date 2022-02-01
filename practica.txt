@@ -1,0 +1,9 @@
+Hola este es un curso de Platzi!
+
+
+
+Mi nombre es Yosemir Changir
+
+y estoy haciendo el curso profesional de git y github!
+
+saludos..
