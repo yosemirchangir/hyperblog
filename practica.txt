@@ -3,8 +3,10 @@ Hola este es un curso de Platzi!
 
 
 Mi nombre es Yosemir Changir
-y tengo 27 años
+ tengo 27 años
 
 y estoy haciendo el curso profesional de git y github.
+
+ahora trabajo con html
 
 saludos..
